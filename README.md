@@ -18,7 +18,7 @@ This project analyzes data on Airbnb listings in Paris to gain insights into fac
 **Code:**
 
 - Python (pandas, matplotlib)
-- Code available on [link to public repository] (optional)
+- Code available on (https://github.com/Kipkoech10/Marvin-AirBnb-/blob/main/Marven%20AirBnB.ipynb)
 
 **Results:**
 
