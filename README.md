@@ -4,7 +4,7 @@ This project analyzes data on Airbnb listings in Paris to gain insights into fac
 
 **Data:**
 
-- Public Airbnb listings data (link to source if available)
+- Marven  Airbnb listings data ((https://app.mavenanalytics.io/guided-projects/4fee7ee7-4c04-46e7-9f3e-99b987980842))
 
 **objectives**
 
@@ -26,15 +26,12 @@ This project analyzes data on Airbnb listings in Paris to gain insights into fac
 - Identified trends in the number of new hosts over time.
 - The 2015 regulations had an impact on the price and number Hosts
 
-**Next Steps:**
 
-- Explore additional data sources (e.g., reviews)
-- Perform more advanced analysis techniques (e.g., clustering)
 
 **Getting Started:**
 
 1. Install required libraries (pandas, matplotlib)
-2. Download or access the data from [link] (if applicable)
+2. Download or access the data from (https://app.mavenanalytics.io/guided-projects/4fee7ee7-4c04-46e7-9f3e-99b987980842)
 
 **License:**
 
